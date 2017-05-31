@@ -7,3 +7,5 @@
  * Shelley's [To Laughter](texts/To_Laughter.txt)
 
 These were the documents we worked with in the STS pre-conference workshop.
+
+By Miriam Neptune
