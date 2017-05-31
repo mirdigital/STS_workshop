@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/Vault/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/Vault/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Alice Hutton Gravestone</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+
+
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>SACRED</p>
+         <p>to the memory of</p>
+         <p>MRS. ALICE HUTTON</p>
+         <p>born at Chesterfield in</p>
+         <p>Great Britain,</p>
+         <p>y. 25th. 1722:</p>
+         <p>and died in Carolina</p>
+         <p>Septr. 26th. 1777.</p>
+         <p>This stone</p>
+         <p>is placed by her only Child</p>
+         <p>ANN BOOTH POLLOK.</p>
+      </body>
+  </text>
+</TEI>
