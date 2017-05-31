@@ -6,4 +6,4 @@
  * [Indenture form](texts/Indenture.txt) of Edward Garrison
  * Shelley's [To Laughter](texts/To_Laughter.txt)
 
-This were the documents we worked with in the STS pre-conference workshop.
+These were the documents we worked with in the STS pre-conference workshop.
