@@ -1603,6 +1603,7 @@ tei-superEntry {
   /* Block with space above and below, maybe have no block and space for <entry> when contained by this element */
 }
 tei-supplied {
+  font-style:italic
   /* not sure on this one, seems like we should indicate somehow. Is there a standard way to do this? */
 }
 tei-support {
